@@ -4,7 +4,7 @@
     "keywords": ["yii2", "sortable", "gridview", "grid"],
     "type": "yii2-extension",
     "license": "MIT",
-	"version":"1.0.0",
+	"version":"1.0.1",
     "authors":[
     	{
             "name": "Octo Web",
