@@ -1,0 +1,22 @@
+{
+    "name": "octoweb/yii2-grid-view-sort",
+    "description": "Sortable modification of standard Yii2 GridView widget",
+    "keywords": ["yii2", "sortable", "gridview", "grid"],
+    "type": "yii2-extension",
+    "license": "MIT",
+	"version":"1.0.0",
+    "authors":[
+    	{
+            "name": "Octo Web",
+            "email": "admin@octo-web.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-jui": "*",
+		"kartik-v/yii2-grid": "*"
+    },
+    "autoload": {
+        "psr-4": {"octoweb\\gridsort\\": ""}
+    }
+}
